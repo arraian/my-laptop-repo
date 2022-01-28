@@ -69,5 +69,15 @@ footer p{
 .orange{
     color: tomato;
 }
-
-
+.footer{
+    box-shadow: 10px 10px 30px gray;
+    background-image:linear-gradient(rgb(16, 171, 243),rgb(247, 0, 255));
+    height: 200px;
+    padding-top: 35px;
+    border-radius: 5px;
+    
+}
+.footer-link{
+    text-decoration: none;
+    color: whitesmoke;
+}
