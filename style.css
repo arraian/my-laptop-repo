@@ -26,10 +26,10 @@ span{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(199, 16, 216),rgb(255, 71, 178));
+    box-shadow:10px 10px 30px gray;
     padding: 10px 30px;
     border-radius: 10px;
-    color:white;
+    color:rgb(172, 17, 219);
 }
 .experience-item{
     width:40%;
@@ -60,11 +60,26 @@ footer p{
 }
 .link-button2{
     text-decoration: none;
-    color: whitesmoke;
-    background-image: linear-gradient(rgb(172, 10, 172),rgb(247, 0, 255));
+    color: skyblue;
+    box-shadow: 10px 10px 30px gray;
+    
     padding: 10px 30px;
     border-radius: 10px;
 
+}
+.linked{
+    color: rgb(9, 120, 163);
+    font-size: 20px;
+    font-weight: 100;
+}
+.in{
+    background-color: rgb(20, 112, 148);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 5px;
+    
+    
 }
 .orange{
     color: tomato;
@@ -99,4 +114,5 @@ footer p{
 .footer-color{
     color: rgb(172, 10, 172);
 }
+
 
