@@ -30,6 +30,10 @@ span{
     padding: 10px 30px;
     border-radius: 10px;
     color:rgb(172, 17, 219);
+    
+}
+a:hover{
+    background-color: chartreuse;
 }
 .experience-item{
     width:40%;
@@ -70,7 +74,7 @@ footer p{
 .linked{
     color: rgb(9, 120, 163);
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 20px;
 }
 .in{
     background-color: rgb(20, 112, 148);
